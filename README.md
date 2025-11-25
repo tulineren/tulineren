@@ -1,9 +1,13 @@
-# Hi, I'm Tülin Eren 👋 
+<p align="right">
+  <img src="https://i.ibb.co/hK2jD1m/female-programmer.png" alt="Female programmer working at desk" width="400" />
+</p>
+
+# 👋 Hi there, I'm Tülin Eren
 
 * 🎓 Currently a 3rd-year **Computer Engineering** student.
 * 🎯 My primary focus areas are **Data Science** and **Cyber Security**.
 * 📈 I am dedicated to building projects and expanding my expertise.
-* 📫 **How to reach me:** **erentulin5@gmail.com**
+* 📫 **How to reach me:** The best way is via email at **erentulin5@gmail.com**
 
 ---
 
@@ -13,25 +17,26 @@ Here are the key technologies, languages, and tools I am currently working with,
 
 ### Languages and Frameworks
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/apps/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40"/> </a> 
+  
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
 </p>
 
 ### Data Science & Cyber Security Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Wireshark-16799A?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C95?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+<p align="left"> 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/original/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/original/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a> 
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="kali" width="40" height="40"/> </a> 
 </p>
 
 ---
@@ -39,6 +44,13 @@ Here are the key technologies, languages, and tools I am currently working with,
 ## 📊 GitHub Stats (Optional)
 
 > **NOTE:** Do not change the **`tulineren`** username in the code below.
+
+```markdown
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=tulineren&show_icons=true&theme=vue](https://github-readme-stats.vercel.app/api?username=tulineren&show_icons=true&theme=vue)" alt="Tülin Eren GitHub Stats" />
+  
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tulineren&layout=compact&theme=vue](https://github-readme-stats.vercel.app/api/top-langs/?username=tulineren&layout=compact&theme=vue)" alt="Tülin Eren Top Languages" />
+</p>
 
 ```markdown
 <p align="center">
