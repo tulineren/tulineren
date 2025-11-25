@@ -1,12 +1,11 @@
-## Hi, I'm Tülin Eren 👋
-# 
+# Hi, I'm Tülin Eren 👋 
 
 I am a 3rd-year Computer Engineering student focusing on developing my skills in high-demand technical fields.
 
 * 🎓 Currently a 3rd-year **Computer Engineering** student.
 * 🎯 My primary focus areas are **Data Science** and **Cyber Security**.
-* 📈 I am dedicated to building projects and expanding my expertise in these two dynamic fields.
-* 📫 **How to reach me:** The best way is via email at **erentulin5@gmail.com**
+* 📈 I am dedicated to building projects and expanding my expertise.
+* 📫 **How to reach me:** **erentulin5@gmail.com**
 
 ---
 
@@ -18,13 +17,12 @@ Here are the key technologies, languages, and tools I am currently working with,
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://imgishi.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 ### Data Science & Cyber Security Tools
@@ -50,18 +48,3 @@ Here are the key technologies, languages, and tools I am currently working with,
   
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tulineren&layout=compact&theme=vue](https://github-readme-stats.vercel.app/api/top-langs/?username=tulineren&layout=compact&theme=vue)" alt="Tülin Eren Top Languages" />
 </p>
-
-<!--
-**tulineren/tulineren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
