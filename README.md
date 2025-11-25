@@ -1,19 +1,16 @@
-<p align="right">
-  <img src="https://i.ibb.co/hK2jD1m/female-programmer.png" alt="Female programmer working at desk" width="400" />
-</p>
-
 # 👋 Hi there, I'm Tülin Eren
-
-I am a 3rd-year Computer Engineering student focusing on developing my skills in high-demand technical fields.
-
 * 🎓 Currently a 3rd-year **Computer Engineering** student.
 * 🎯 My primary focus areas are **Data Science** and **Cyber Security**.
-* 📈 I am dedicated to building projects and expanding my expertise in these two dynamic fields.
+* 📈 I am dedicated to building projects and expanding my expertise.
 * 📫 **How to reach me:** The best way is via email at **erentulin5@gmail.com**
 
 ---
 
 ## 🛠️ Languages, Frameworks, and Tools
+
+<p align="right">
+  <img src="https://i.ibb.co/hK2jD1m/female-programmer.png" alt="Female programmer working at desk" width="300" />
+</p>
 
 Here are the key technologies, languages, and tools I am currently working with, aligned with my career goals.
 
@@ -30,8 +27,7 @@ Here are the key technologies, languages, and tools I am currently working with,
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/original/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/original/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a> 
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="kali" width="40" height="40"/> </a> 
 </p>
 
