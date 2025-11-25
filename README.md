@@ -1,7 +1,5 @@
 # Hi, I'm Tülin Eren 👋 
 
-I am a 3rd-year Computer Engineering student focusing on developing my skills in high-demand technical fields.
-
 * 🎓 Currently a 3rd-year **Computer Engineering** student.
 * 🎯 My primary focus areas are **Data Science** and **Cyber Security**.
 * 📈 I am dedicated to building projects and expanding my expertise.
