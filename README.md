@@ -3,9 +3,10 @@
 * 🎓 Currently a 3rd-year **Computer Engineering** student.
 * 🎯 My primary focus areas are **Data Science** and **Cyber Security**.
 * 📈 I am dedicated to building projects and expanding my expertise.
-* 📫 **How to reach me:** The best way is via email at **erentulin5@gmail.com**
+* 📫 **How to reach me:** **erentulin5@gmail.com**
 
 ---
+https://open.spotify.com/user/8ejkyiswfz9nsm2rs51pgbqh4?si=088453d2a1f942ab
 
 ## 🛠️ Languages, Frameworks, and Tools
 
