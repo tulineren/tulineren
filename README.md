@@ -6,7 +6,7 @@
 * 📫 **How to reach me:** **erentulin5@gmail.com**
 
 ---
-https://open.spotify.com/user/8ejkyiswfz9nsm2rs51pgbqh4?si=088453d2a1f942ab
+
 
 ## 🛠️ Languages, Frameworks, and Tools
 
