@@ -8,7 +8,7 @@
 ---
 
 
-## Languages, Frameworks, and Tools
+##  Languages, Frameworks, and Tools
 
 Here are the key technologies, languages, and tools I am currently working with, aligned with my career goals.
 
